@@ -11,8 +11,8 @@ Spring JPA
 
 Tools  Used:
 
-Spring-Tool-Suite
-Postman
+Spring-Tool-Suite,
+Postman,
 JWT.io
 
 Database:
