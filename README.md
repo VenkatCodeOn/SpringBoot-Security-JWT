@@ -19,3 +19,5 @@ Database:
 
 H2 Database
 
+*Only for Education Purpose*
+
