@@ -4,9 +4,9 @@ A Simple web App to demonstrate how to use spring security using JWT and encrypt
 
 Dependencies Used:
 
-Spring web
-Spring security
-H2 Database
+Spring web,
+Spring security,
+H2 Database,
 Spring JPA
 
 Tools  Used:
